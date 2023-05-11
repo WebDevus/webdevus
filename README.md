@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hey! 👋
+My name is Salman. I'm 20 y.o web developer from Russia, Omsk.
 
-<!--
-**WebDevus/webdevus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 JavaScript, JQuery, PHP, Laravel
+- ⚙️ React, Vue
+- 👁️ Bootstrap, HTML, CSS
+- 💽 MySQL, SQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Portfolio website](http://my.webcenter.website)
+- [@here_i_am_bitches](https://t.me/here_i_am_bitches) on Telegram
