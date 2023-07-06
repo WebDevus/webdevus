@@ -2,10 +2,10 @@
 My name is Salman. I'm 20 y.o web developer from Russia, Omsk.
 
 ## Skills
-- 👨‍💻 JavaScript, JQuery, PHP, Laravel
-- ⚙️ React, Vue
+- 👨‍💻 PHP, Laravel
+- ⚙️ JavaScript, JQuery,, Vue
 - 👁️ Bootstrap, HTML, CSS
-- 💽 MySQL, SQL
+- 💽 MySQL
 
 ## Contact
 - [Portfolio website](http://my.webcenter.website)
