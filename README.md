@@ -8,5 +8,5 @@ My name is Salman. I'm 20 y.o web developer from Russia, Omsk.
 - 💽 MySQL
 
 ## Contact
-- [Portfolio website](http://my.webcenter.website)
+- [Portfolio website](http://webcenter.website)
 - [@here_i_am_bitches](https://t.me/here_i_am_bitches) on Telegram
