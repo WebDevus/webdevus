@@ -2,8 +2,8 @@
 My name is Salman. I'm 21 y.o web developer from Russia, Omsk.
 
 ## Skills
-- 👨‍💻 PHP, Laravel
-- ⚙️ JavaScript, JQuery, Vue, NextJS, React
+- 👨‍💻 PHP, Laravel, Express
+- ⚙️ JavaScript, JQuery, VueJS, NextJS, React
 - 👁️ Bootstrap, HTML, CSS, Tailwind
 - 💽 MySQL, Redis, SocketIO
 
