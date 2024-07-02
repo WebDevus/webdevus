@@ -1,5 +1,3 @@
-## Hey! 👋
-My name is Salman. I'm 21 y.o web developer from Russia, Omsk.
 
 ## Skills
 - 👨‍💻 PHP, Laravel, Express
