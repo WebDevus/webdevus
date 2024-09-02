@@ -7,4 +7,4 @@
 
 ## Contact
 - [Portfolio website](http://webcenter.website)
-- [@here_i_am_bitches](https://t.me/here_i_am_bitches) on Telegram
+- [@here_i_am_bitches](https://t.me/here_i_am_bitch) on Telegram
