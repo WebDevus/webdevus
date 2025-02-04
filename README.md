@@ -1,8 +1,8 @@
 
 ## Skills
-- 👨‍💻 PHP, Laravel, Express
-- ⚙️ JavaScript, JQuery, VueJS, NextJS, React
-- 👁️ Bootstrap, HTML, CSS, Tailwind
+- 👨‍💻 Laravel, ExpressJS, AdonisJS, NestJS
+- ⚙️ VueJS, NextJS, React, JavaScript, JQuery
+- 👁️ TailwindCSS, HTML, CSS, Bootstrap
 - 💽 MySQL, Redis, SocketIO
 
 ## Contact
